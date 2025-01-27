@@ -39,6 +39,9 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'geo_app',
+    'django.contrib.gis',
+    'rest_framework',
+
 ]
 
 MIDDLEWARE = [
