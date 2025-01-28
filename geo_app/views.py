@@ -11,5 +11,4 @@ class LocationListCreateAPIView(generics.ListCreateAPIView):
 class AddressLocationListCreateAPIView(generics.ListCreateAPIView):
     queryset = Location.objects.all()
     serializer_class = AddressLocationSerializer
-    exclude = ['coordinates']
 
