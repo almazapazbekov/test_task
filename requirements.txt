@@ -4,3 +4,4 @@ django-geosource
 django-leaflet
 django-geojson
 djangorestframework
+geopy

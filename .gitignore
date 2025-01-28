@@ -2,6 +2,6 @@
 .idea/
 
 venv/
-geo_app/migrations/
-.env.dev
+#geo_app/migrations/
+#.env.dev
 
